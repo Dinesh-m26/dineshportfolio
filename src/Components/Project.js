@@ -12,7 +12,7 @@ export const Project = () => {
           <p className='text-[#476fff] font-medium'>Using Html ,css</p>
           <div className='flex space-x-2 pt-2'>
             <a href="https://github.com/Dinesh-m26/facebook-clone.git" target='_blank' rel='noopener noreferrer' ><FaGithub size={30} color='black' className='transform transition-transform hover:scale-110' /></a>
-            <a href='https://facebookcloned.netlify.app/' target='_blank' rel='noopener noreferrer'><FaRegArrowAltCircleRight size={30} color='black' className='transform transition-transform hover:scale-110' /></a>
+            <a href='https://facebkclone.netlify.app' target='_blank' rel='noopener noreferrer'><FaRegArrowAltCircleRight size={30} color='black' className='transform transition-transform hover:scale-110' /></a>
           </div>
         </div>
         {/* Project 2 */}
